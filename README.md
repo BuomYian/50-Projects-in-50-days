@@ -1,0 +1,1 @@
+As part of my journey to web development, am challenging myself to do this mini projects.
