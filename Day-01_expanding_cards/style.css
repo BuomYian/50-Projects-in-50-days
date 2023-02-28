@@ -28,7 +28,7 @@ body {
     color: #fff;
     cursor: pointer;
     flex: 0.5;
-    margin: 10px;
+    margin: 5px;
     position: relative;
     transition: flex 0.7s ease-in;
 }
@@ -50,13 +50,12 @@ body {
     opacity: 1;
 }
 
-@media(max-width: 480px) {
+@media (max-width: 500px) {
     .container {
         width: 100vw;
     }
 
-    .panel:nth-of-type(5),
-    .panel:nth-of-type(6) {
+    .panel:nth-of-type(5),.panel:nth-of-type(6) {
         display: none;
     }
 
