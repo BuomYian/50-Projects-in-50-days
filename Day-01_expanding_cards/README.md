@@ -1,0 +1,1 @@
+Simple project on card expansion. Learnt js eventListener, classList and forEach loop
