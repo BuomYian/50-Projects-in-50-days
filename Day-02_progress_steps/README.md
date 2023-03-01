@@ -1,0 +1,1 @@
+Simple project that focus on tracking the progress steps (mainly used when filling forms). Learnt more of eventListeners in javaScript
