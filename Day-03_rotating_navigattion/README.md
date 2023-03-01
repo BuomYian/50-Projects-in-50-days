@@ -1,1 +1,1 @@
-This project is more of css transform and transilation
+This project is more of css transformations and transilations
