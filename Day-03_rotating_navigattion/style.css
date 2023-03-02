@@ -109,6 +109,9 @@ nav ul li + li + li{
     margin-left: 30px;
     transform: translateX(-200%);
 }
+li {
+    cursor: pointer;
+}
 
 .content img {
     max-width: 100%;
