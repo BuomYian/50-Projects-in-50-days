@@ -1,0 +1,1 @@
+This project mainly focuses on javaScript toggle efffect (Removing and adding event on click) and eventListeners
