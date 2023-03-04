@@ -1,0 +1,1 @@
+This mini project is all about css blur and javaScript setInterval function
